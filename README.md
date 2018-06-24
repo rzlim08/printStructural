@@ -2,7 +2,7 @@
 
 Function that takes a path to a structural MRI (sMRI) image and prints it to a .ps file. 
 
-![Example MRI]('docs/Example.png');
+![Example MRI]('printStructural/docs/Example.png');
 
 ## How do I Use This?
 
